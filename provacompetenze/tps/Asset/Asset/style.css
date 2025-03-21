@@ -1,0 +1,46 @@
+header{
+    border-top: 3px;
+    background-color: #306998;
+    
+}
+
+.h1 {
+    border-top: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+}
+.h2 {
+    color: #306998;
+    padding-top: 10px;
+    text-align: center;
+    font-size: large;
+    
+    
+}
+a{
+    color: #f5f5f5;
+}
+
+footer{
+    
+    background-color: #f2f2f2;
+
+}
+.img{
+    flex: 2;
+    width: 2px;
+    border-right: 10px;
+    border-radius: 4px;
+    size: 30px;
+
+}
+.logo{
+    flex: 2;
+    
+}
