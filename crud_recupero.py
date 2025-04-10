@@ -201,7 +201,7 @@ def menu():
         elif scelta == "5":
             visualizza_mq()
         elif scelta == "6":
-            visualizza_prezzo
+            visualizza_prezzo()
         
 
 menu()
