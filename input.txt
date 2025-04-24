@@ -1,0 +1,101 @@
+Gatto-Maine Coon-15/01/2022  
+Cane-Labrador-22/03/2021  
+Coniglio-Olandese-04/07/2023  
+Furetto-Albino-12/09/2022  
+Svetoloso-Rottweiler-02/05/2020  
+Tartaruga-di terra-18/11/2021  
+Uccello-Cenerino-30/08/2023  
+Criceto-Syrio-17/02/2020  
+Porcellino d'India-Americano-21/06/2023  
+Pesce-Betta-07/01/2022  
+Gatto-Persiano-14/04/2021  
+Cane-Beagle-29/10/2022  
+Coniglio-Nano-10/12/2020  
+Furetto-Sable-26/08/2023  
+Cane-Bulldog-11/03/2022  
+Gatto-Siamese-20/07/2023  
+Uccello-Canarino-05/02/2021  
+Criceto-Roborovski-24/09/2022  
+Porcellino d'India-Abissino-15/05/2023  
+Pesce-Guppy-03/11/2020  
+Gatto-Europeo-22/12/2021  
+Cane-Boxer-30/01/2023  
+Coniglio-Angora-08/06/2020  
+Furetto-Masked-17/07/2021  
+Tartaruga-Acquatica-13/10/2022  
+Uccello-Pappagallo-19/03/2023  
+Gatto-Sphynx-16/09/2020  
+Cane-Pastore Tedesco-10/02/2021  
+Coniglio-Lionhead-28/11/2022  
+Furetto-Cinnamon-25/05/2021  
+Porcellino d'India-Peruviano-02/12/2022  
+Pesce-Neon-07/10/2020  
+Gatto-Norvegese delle Foreste-14/08/2021  
+Cane-Chihuahua-23/05/2023  
+Coniglio-Hotot-01/04/2022  
+Furetto-Standard-30/06/2021  
+Tartaruga-di mare-19/01/2023  
+Uccello-Finocchiaro-12/12/2020  
+Gatto-Scottish Fold-26/08/2021  
+Cane-Maltese-09/04/2023  
+Coniglio-Californiano-15/02/2020  
+Furetto-Black-06/03/2022  
+Pesce-Angelfish-11/01/2023  
+Gatto-Burmese-27/07/2020  
+Cane-Setter Irlandese-22/09/2021  
+Coniglio-Holland Lop-14/05/2023  
+Tartaruga-di fiume-02/08/2021  
+Uccello-Sgreta-21/03/2022  
+Gatto-Abyssinian-23/12/2020  
+Cane-Shih Tzu-25/04/2021  
+Coniglio-New Zealand-16/06/2023  
+Furetto-Silver-30/01/2022  
+Pesce-Tetra-02/11/2021  
+Gatto-Birmano-19/05/2023  
+Cane-Cocker Spaniel-10/08/2020  
+Coniglio-Dwarf Hotot-04/12/2022  
+Uccello-Jenday-17/11/2021  
+Gatto-Devon Rex-28/06/2020  
+Cane-Poodle-13/05/2023  
+Coniglio-English Spot-01/09/2021  
+Furetto-Black Eyed White-27/03/2022  
+Pesce-Guppy-05/07/2020  
+Gatto-Russian Blue-22/10/2021  
+Cane-Great Dane-15/03/2023  
+Coniglio-Rex-17/01/2022  
+Furetto-Chocolate-19/05/2021  
+Tartaruga-Marginata-10/12/2020  
+Uccello-Quaker-13/04/2023  
+Gatto-Tonchinese-30/06/2022  
+Cane-Siberian Husky-21/09/2020  
+Coniglio-Rex nero-06/11/2021  
+Furetto-Pew-18/10/2023  
+Pesce-Koi-09/08/2022  
+Gatto-Exotico-26/01/2023  
+Cane-Bloodhound-22/02/2021  
+Coniglio-Fuzzy Lop-20/03/2023  
+Uccello-Bengalese-30/04/2021  
+Gatto-Savanna-19/07/2022  
+Cane-Hollando-11/10/2020  
+Coniglio-Mini Lop-02/05/2022  
+Furetto-White-04/09/2021  
+Pesce-Discus-01/10/2023  
+Gatto-LaPerm-13/02/2021  
+Cane-Irish Wolfhound-25/06/2022  
+Coniglio-Palomino-07/03/2023  
+Furetto-Blaze-15/11/2020  
+Tartaruga-Sterna-17/04/2022  
+Uccello-Pappagallo Cacatua-28/09/2021  
+Gatto-British Shorthair-20/11/2023  
+Cane-Basset Hound-30/08/2022  
+Coniglio-Silver Marten-14/12/2020  
+Furetto-Sable-24/06/2023  
+Pesce-Goldfish-03/12/2021  
+Gatto-Cornish Rex-07/05/2023  
+Cane-Dachshund-22/03/2022  
+Coniglio-Standard Rex-19/06/2021  
+Uccello-Gave-13/06/2022  
+Gatto-Turkish Van-15/03/2023  
+Cane-Samoiedo-09/01/2020  
+Coniglio-Himalayan-28/04/2021
+  
