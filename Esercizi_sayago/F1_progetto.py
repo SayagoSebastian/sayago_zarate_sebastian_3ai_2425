@@ -19,12 +19,30 @@ def tempo_in_secondi(tempo_str):
         return None
 
 def main(page: ft.Page):
-    # Impostazioni della pagina
-    page.title = "Qualifiche F1"
-    page.theme_mode = ft.ThemeMode.DARK
-    page.bgcolor = ft.Colors.BLACK
+    page.title = "Benvenuto"
     page.window_min_width = 1000
     page.window_min_height = 700
 
-    
+    bottone_inizia = ft.ElevatedButton("Inizia", width=150, height=50)
 
+    layout_iniziale = ft.Stack([
+        ft.Image(
+            src="sfondo_primo.jpeg",
+            fit=ft.ImageFit.COVER,
+            expand=True,
+            
+        ),
+        ft.Container(
+            content=ft.Column(
+                controls=[bottone_inizia],
+                alignment=ft.MainAxisAlignment.CENTER,
+                horizontal_alignment=ft.CrossAxisAlignment.CENTER,
+                expand=True
+            ),
+            alignment=ft.alignment.center
+        )
+    ], expand=True)
+
+    page.add(layout_iniziale)
+
+ft.app(target=main)
